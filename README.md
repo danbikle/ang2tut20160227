@@ -20,7 +20,9 @@ mul_com
 srvcs
 routing
 
+Currently, I rely on plnkr.co to run these demos.
+
+Eventually I hope to find a way to run them on my laptop with Node.js.
+
 If you have questions,
 e-me: bikle101@gmail.com
-
-
